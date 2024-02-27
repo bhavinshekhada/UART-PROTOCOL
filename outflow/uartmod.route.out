@@ -1,0 +1,133 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.1.150 
+Compiled: Jun 23 2023.
+
+Copyright (C) 2013 - 2023 Efinix Inc. All rights reserved.
+
+
+The Tool Is Based on VPR of University of Toronto,
+a free open source code under MIT license.
+
+
+Running Placement and Routing for Family "Trion", Device "T120F324" ...
+
+***** Beginning stage routing graph generation ... *****
+Read ipin pattern from E:/intern/arch/./ipin_oph.xml
+Finished parsing ipin pattern file 'E:/intern/arch/./ipin_oph.xdb'.
+Finished parsing switch_block file 'E:/intern/arch/.\sb_connectivity_subset.xdb'.
+BuildGraph process took 34.1513 seconds.
+	BuildGraph process took 16.5625 seconds (approximately) in total CPU time.
+BuildGraph process virtual memory usage: begin = 63.884 MB, end = 2231.48 MB, delta = 2167.6 MB
+	BuildGraph process peak virtual memory usage = 2257.54 MB
+BuildGraph process resident set memory usage: begin = 66.704 MB, end = 2043.65 MB, delta = 1976.95 MB
+	BuildGraph process peak resident set memory usage = 2144.64 MB
+check rr_graph process took 0.900949 seconds.
+	check rr_graph process took 0.34375 seconds (approximately) in total CPU time.
+check rr_graph process virtual memory usage: begin = 2446.32 MB, end = 2446.32 MB, delta = 0 MB
+	check rr_graph process peak virtual memory usage = 2504.96 MB
+check rr_graph process resident set memory usage: begin = 2093.06 MB, end = 2094.92 MB, delta = 1.86 MB
+	check rr_graph process peak resident set memory usage = 2179.61 MB
+Generated 6653381 RR nodes and 25233728 RR edges
+This design has 0 global control net(s). See E:/intern/project/uartmod/outflow\uartmod.route.rpt for details.
+Routing graph took 36.3717 seconds.
+	Routing graph took 17.2969 seconds (approximately) in total CPU time.
+Routing graph virtual memory usage: begin = 60.552 MB, end = 2029.47 MB, delta = 1968.92 MB
+	Routing graph peak virtual memory usage = 2504.96 MB
+Routing graph resident set memory usage: begin = 65.764 MB, end = 1918.43 MB, delta = 1852.66 MB
+	Routing graph peak resident set memory usage = 2179.61 MB
+***** Ending stage routing graph generation *****
+
+***** Beginning stage routing ... *****
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' blank or does not contain valid constraint or not found.
+Using default timing constraint of 1 ns.
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' parsed successfully.
+1 clocks (including virtual clocks), 0 inputs and 0 outputs were constrained.
+
+
+ ---------      -------     --------------      -------------
+ Iteration      Overuse     Crit Path (ns)      Calc Time (s)
+ ---------      -------     --------------      -------------
+         1          506              6.036              0.452
+         2          276              6.036              0.234
+         3          168              6.036                0.2
+         4           91              5.712              0.201
+         5           69              5.712               0.23
+         6           35              5.712               0.22
+         7           29              5.712              0.252
+         8           12              6.078              0.987
+         9            4              6.458              0.204
+        10            0              6.566              0.229
+
+Successfully routed netlist after 10 routing iterations and 1459431 heapops
+Completed net delay value cross check successfully.
+
+***** Beginning stage routing check ... *****
+***** Ending stage routing check *****
+
+
+Serial number (magic cookie) for the routing is: 1823596721
+Netlist fully routed.
+
+Successfully created FPGA route file 'E:/intern/project/uartmod/outflow/uartmod.route'
+Routing took 5.41605 seconds.
+	Routing took 2.32812 seconds (approximately) in total CPU time.
+Routing virtual memory usage: begin = 2029.47 MB, end = 2083.58 MB, delta = 54.116 MB
+	Routing peak virtual memory usage = 2625.38 MB
+Routing resident set memory usage: begin = 1918.49 MB, end = 1974.22 MB, delta = 55.724 MB
+	Routing peak resident set memory usage = 2349.42 MB
+***** Ending stage routing *****
+
+***** Beginning stage final timing analysis ... *****
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' blank or does not contain valid constraint or not found.
+Using default timing constraint of 1 ns.
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' parsed successfully.
+1 clocks (including virtual clocks), 0 inputs and 0 outputs were constrained.
+
+Maximum possible analyzed clocks frequency
+ Clock Name  Period (ns)  Frequency (MHz)     Edge
+  i_Clock       6.686        149.566         (R-R)
+
+Geomean max period: 6.686
+
+Setup (Max) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+    i_Clock          i_Clock           1.000            -5.686           (R-R)
+
+Hold (Min) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+    i_Clock          i_Clock           0.000            0.307            (R-R)
+
+WARNING(1): Clock domain between i_Clock (rising) and i_Clock (rising) may not meet (slack: -5.686 ns) the setup (max) timing requirement
+
+Write Timing Report to "E:/intern/project/uartmod/outflow\uartmod.timing.rpt" ...
+final timing analysis took 0.314697 seconds.
+	final timing analysis took 0.171875 seconds (approximately) in total CPU time.
+final timing analysis virtual memory usage: begin = 2058.26 MB, end = 2058.39 MB, delta = 0.124 MB
+	final timing analysis peak virtual memory usage = 2625.38 MB
+final timing analysis resident set memory usage: begin = 1952.49 MB, end = 1953.45 MB, delta = 0.96 MB
+	final timing analysis peak resident set memory usage = 2349.42 MB
+***** Ending stage final timing analysis *****
+
+***** Beginning stage bitstream generation ... *****
+Reading core interface constraints from 'E:/intern/project/uartmod/outflow/uartmod.interface.csv'.
+Successfully processed interface constraints file "E:/intern/project/uartmod/outflow/uartmod.interface.csv".
+Finished writing bitstream file E:/intern/project/uartmod/work_pnr\uartmod.lbf.
+Bitstream generation took 4.59725 seconds.
+	Bitstream generation took 2.48438 seconds (approximately) in total CPU time.
+Bitstream generation virtual memory usage: begin = 2058.39 MB, end = 2277.84 MB, delta = 219.448 MB
+	Bitstream generation peak virtual memory usage = 2625.38 MB
+Bitstream generation resident set memory usage: begin = 1953.48 MB, end = 2176.92 MB, delta = 223.444 MB
+	Bitstream generation peak resident set memory usage = 2349.42 MB
+***** Ending stage bitstream generation *****
+
+The entire flow of EFX_PNR took 61.8575 seconds.
+	The entire flow of EFX_PNR took 28.9375 seconds (approximately) in total CPU time.
+The entire flow of EFX_PNR virtual memory usage: begin = 5.464 MB, end = 269.6 MB, delta = 264.136 MB
+	The entire flow of EFX_PNR peak virtual memory usage = 2625.38 MB
+The entire flow of EFX_PNR resident set memory usage: begin = 12.628 MB, end = 239.504 MB, delta = 226.876 MB
+	The entire flow of EFX_PNR peak resident set memory usage = 2349.42 MB

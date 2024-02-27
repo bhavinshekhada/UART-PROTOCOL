@@ -1,0 +1,227 @@
+Efinity Synthesis report for project uartmod
+Version: 2023.1.150
+Generated at: Jan 18, 2024 10:07:13
+Copyright (C) 2013 - 2023  Inc. All rights reserved.
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+Top-level Entity Name : top
+
+### ### File List (begin) ### ### ###
+E:\intern\project\uartmod\utx.v
+E:\intern\project\uartmod\urx.v
+E:\intern\project\uartmod\top.v
+### ### File List (end) ### ### ###
+
+
+### ### EFX_FF CE enables (begin) ### ### ###
+Total number of enable signals: 16
+Total number of FFs with enable signals: 75
+CE signal <n1431>, number of controlling flip flops: 28
+CE signal <n522_2>, number of controlling flip flops: 1
+CE signal <t0/r_SM_Main[2]>, number of controlling flip flops: 12
+CE signal <ceg_net217>, number of controlling flip flops: 3
+CE signal <t0/n672>, number of controlling flip flops: 8
+CE signal <ceg_net201>, number of controlling flip flops: 11
+CE signal <ceg_net229>, number of controlling flip flops: 1
+CE signal <r0/n666>, number of controlling flip flops: 1
+CE signal <ceg_net225>, number of controlling flip flops: 3
+CE signal <r0/n698>, number of controlling flip flops: 1
+CE signal <r0/n700>, number of controlling flip flops: 1
+CE signal <r0/n702>, number of controlling flip flops: 1
+CE signal <r0/n704>, number of controlling flip flops: 1
+CE signal <r0/n706>, number of controlling flip flops: 1
+CE signal <r0/n708>, number of controlling flip flops: 1
+CE signal <r0/n710>, number of controlling flip flops: 1
+### ### EFX_FF CE enables (end) ### ### ###
+
+### ### EFX_FF SR set/reset (begin) ### ### ###
+Total number of set/reset signals: 5
+Total number of FFs with set/reset signals: 8
+SR signal <t0/r_SM_Main[2]>, number of controlling flip flops: 2
+SR signal <t0/n674>, number of controlling flip flops: 1
+SR signal <r0/r_SM_Main[2]>, number of controlling flip flops: 2
+SR signal <r0/n696>, number of controlling flip flops: 1
+SR signal <baud_select[1]>, number of controlling flip flops: 2
+### ### EFX_FF SR set/reset (end) ### ### ###
+
+### ### Sequential Elements Trimming Report (begin) ### ### ### 
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\urx.v (45)" removed instance : r0/dff_5/i8
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i6
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\urx.v (45)" removed instance : r0/dff_5/i11
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i5
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i1
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i1
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i2
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i2
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i3
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i3
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i4
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i4
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i5
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i5
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i6
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i6
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i8
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i6
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i9
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i9
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i10
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i10
+FF|OPT : Flip-flop optimization by equivalence checking
+@ "E:\intern\project\uartmod\utx.v (150)" removed instance : t0/dff_39/i11
+@ "E:\intern\project\uartmod\urx.v (45)" representative instance : r0/dff_5/i5
+FF Output: t0/baud_rate_cycles[6](=0)
+FF Output: r0/baud_rate_cycles[6](=0)
+FF instance: counter_3s[0]~FF(unreachable)
+FF instance: counter_2s[0]~FF(unreachable)
+FF instance: counter_4s[0]~FF(unreachable)
+FF instance: counter_3s[1]~FF(unreachable)
+FF instance: counter_3s[2]~FF(unreachable)
+FF instance: counter_3s[3]~FF(unreachable)
+FF instance: counter_3s[4]~FF(unreachable)
+FF instance: counter_3s[5]~FF(unreachable)
+FF instance: counter_3s[6]~FF(unreachable)
+FF instance: counter_3s[7]~FF(unreachable)
+FF instance: counter_3s[8]~FF(unreachable)
+FF instance: counter_3s[9]~FF(unreachable)
+FF instance: counter_3s[10]~FF(unreachable)
+FF instance: counter_3s[11]~FF(unreachable)
+FF instance: counter_3s[12]~FF(unreachable)
+FF instance: counter_3s[13]~FF(unreachable)
+FF instance: counter_3s[14]~FF(unreachable)
+FF instance: counter_3s[15]~FF(unreachable)
+FF instance: counter_3s[16]~FF(unreachable)
+FF instance: counter_3s[17]~FF(unreachable)
+FF instance: counter_3s[18]~FF(unreachable)
+FF instance: counter_3s[19]~FF(unreachable)
+FF instance: counter_3s[20]~FF(unreachable)
+FF instance: counter_3s[21]~FF(unreachable)
+FF instance: counter_3s[22]~FF(unreachable)
+FF instance: counter_3s[23]~FF(unreachable)
+FF instance: counter_3s[24]~FF(unreachable)
+FF instance: counter_3s[25]~FF(unreachable)
+FF instance: counter_3s[26]~FF(unreachable)
+FF instance: counter_3s[27]~FF(unreachable)
+FF instance: counter_2s[1]~FF(unreachable)
+FF instance: counter_2s[2]~FF(unreachable)
+FF instance: counter_2s[3]~FF(unreachable)
+FF instance: counter_2s[4]~FF(unreachable)
+FF instance: counter_2s[5]~FF(unreachable)
+FF instance: counter_2s[6]~FF(unreachable)
+FF instance: counter_2s[7]~FF(unreachable)
+FF instance: counter_2s[8]~FF(unreachable)
+FF instance: counter_2s[9]~FF(unreachable)
+FF instance: counter_2s[10]~FF(unreachable)
+FF instance: counter_2s[11]~FF(unreachable)
+FF instance: counter_2s[12]~FF(unreachable)
+FF instance: counter_2s[13]~FF(unreachable)
+FF instance: counter_2s[14]~FF(unreachable)
+FF instance: counter_2s[15]~FF(unreachable)
+FF instance: counter_2s[16]~FF(unreachable)
+FF instance: counter_2s[17]~FF(unreachable)
+FF instance: counter_2s[18]~FF(unreachable)
+FF instance: counter_2s[19]~FF(unreachable)
+FF instance: counter_2s[20]~FF(unreachable)
+FF instance: counter_2s[21]~FF(unreachable)
+FF instance: counter_2s[22]~FF(unreachable)
+FF instance: counter_2s[23]~FF(unreachable)
+FF instance: counter_2s[24]~FF(unreachable)
+FF instance: counter_2s[25]~FF(unreachable)
+FF instance: counter_2s[26]~FF(unreachable)
+FF instance: counter_2s[27]~FF(unreachable)
+FF instance: counter_4s[1]~FF(unreachable)
+FF instance: counter_4s[2]~FF(unreachable)
+FF instance: counter_4s[3]~FF(unreachable)
+FF instance: counter_4s[4]~FF(unreachable)
+FF instance: counter_4s[5]~FF(unreachable)
+FF instance: counter_4s[6]~FF(unreachable)
+FF instance: counter_4s[7]~FF(unreachable)
+FF instance: counter_4s[8]~FF(unreachable)
+FF instance: counter_4s[9]~FF(unreachable)
+FF instance: counter_4s[10]~FF(unreachable)
+FF instance: counter_4s[11]~FF(unreachable)
+FF instance: counter_4s[12]~FF(unreachable)
+FF instance: counter_4s[13]~FF(unreachable)
+FF instance: counter_4s[14]~FF(unreachable)
+FF instance: counter_4s[15]~FF(unreachable)
+FF instance: counter_4s[16]~FF(unreachable)
+FF instance: counter_4s[17]~FF(unreachable)
+FF instance: counter_4s[18]~FF(unreachable)
+FF instance: counter_4s[19]~FF(unreachable)
+FF instance: counter_4s[20]~FF(unreachable)
+FF instance: counter_4s[21]~FF(unreachable)
+FF instance: counter_4s[22]~FF(unreachable)
+FF instance: counter_4s[23]~FF(unreachable)
+FF instance: counter_4s[24]~FF(unreachable)
+FF instance: counter_4s[25]~FF(unreachable)
+FF instance: counter_4s[26]~FF(unreachable)
+FF instance: counter_4s[27]~FF(unreachable)
+### ### Sequential Elements Trimming Report (end) ### ### ### 
+
+### ### Module Resource Usage Distribution Estimates (begin) ### ###
+
+**Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module            FFs        ADDs        LUTs      RAMs DSP/MULTs
+---------         ---        ----        ----      ---- ---------
+top:top        91(29)        0(0)     198(56)      0(0)      0(0)
+ +t0:utx       26(26)        0(0)      47(47)      0(0)      0(0)
+ +r0:urx       36(36)        0(0)      95(95)      0(0)      0(0)
+
+### ### Module Resource Usage Distribution Estimates (end) ### ###
+
+
+### ### Clock Load Distribution Report (begin) ### ###
+
+   Clock     Flip-Flops   Memory Ports    Multipliers
+   -----     ----------   ------------    -----------
+ i_Clock             91              0              0
+
+### ### Clock Load Distribution Report (end) ### ###
+
+### ### EFX Flow Options (begin) ### ### ###
+
+family : Trion
+device : T120F324
+project : uartmod
+project-xml : E:/intern/project/uartmod/uartmod.xml
+root : top
+I : E:/intern/project/uartmod
+output-dir : E:/intern/project/uartmod/outflow
+work-dir : E:/intern/project/uartmod/work_syn
+write-efx-verilog : E:/intern/project/uartmod/outflow/uartmod.map.v
+binary-db : E:/intern/project/uartmod/outflow/uartmod.vdb
+insert-ios : 0
+max-carry-cascade : 640
+max_mult : -1
+max_ram : -1
+mode : speed
+veri_options : verilog_mode=verilog_2k,vhdl_mode=vhdl_2008
+
+### ### EFX Flow Options (end) ### ### ###
+
+### ### Resource Summary (begin) ### ### ### 
+INPUT  PORTS    : 	5
+OUTPUT PORTS    : 	5
+
+EFX_LUT4        : 	198
+   1-2  Inputs  : 	46
+   3    Inputs  : 	55
+   4    Inputs  : 	97
+EFX_FF          : 	91
+EFX_GBUFCE      : 	1
+### ### Resource Summary (end) ### ### ###
+
+Plain synthesis (without verilog dump and post-map checks) time : 8s
+Elapsed synthesis time : 9s

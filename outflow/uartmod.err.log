@@ -1,0 +1,445 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 14:57:57
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 14:58:33
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:03:52
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:16:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:37:41
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:39:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:47:58
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:153)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:153)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:48:37
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'reg' (VERI-1137) (E:\intern\project\uartmod\urx.v:7)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'reg' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\urx.v:7)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:49:24
+///////////////////////////////////
+
+[EFX-0021 ERROR] Verific elaboration of module 'utx' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:53:45
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'utx' (VERI-1063) (E:\intern\project\uartmod\top.v:15)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:54:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 16:50:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:05:27
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:42)
+[EFX-0010 VERI-ERROR] default case should appear only once (VERI-1020) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] module 'utx' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:05:43
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:42)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:43)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:44)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:45)
+[EFX-0010 VERI-ERROR] syntax error near 'default' (VERI-1137) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'default' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\utx.v:48)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:48)
+[EFX-0010 VERI-ERROR] default case should appear only once (VERI-1020) (E:\intern\project\uartmod\utx.v:146)
+[EFX-0010 VERI-ERROR] module 'utx' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:06:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:08:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:25:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:44:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:49:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 18:12:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 14, 2023 09:36:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 14, 2023 10:37:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 15, 2023 11:57:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 18, 2023 11:35:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 09:25:54
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:43:36
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\top.v:43)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:43)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:74)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:44:54
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:46:33
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:48:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:58)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:63)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] 'led_1' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] 'led_2' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:57)
+[EFX-0010 VERI-ERROR] 'led_3' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:58)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:59)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:62)
+[EFX-0010 VERI-ERROR] 'led_4' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:63)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:64)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:74)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:49:55
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:51:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 11:32:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:28:23
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:35)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:76)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:31:33
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'output' (VERI-1137) (E:\intern\project\uartmod\top.v:27)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'output' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:27)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:31:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:09
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not declared (VERI-1128) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:26
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near 'output' (VERI-1137) (E:\intern\project\uartmod\top.v:27)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'output' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:27)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:45
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:34:13
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:41:33
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:75)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:77)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:77)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:79)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:79)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:81)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:81)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:92)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:42:43
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:76)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:93)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:44:30
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:76)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:93)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:44:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:55:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'led_1' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:72)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:85)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:14:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:83)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:15:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:45)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:46)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] 'baud_select' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:45)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:46)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:91)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:15:34
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:83)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 15:53:45
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:81)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 15:58:19
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:50)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:79)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 16:00:40
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:51)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] syntax error near 'default' (VERI-1137) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'default' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\top.v:55)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:55)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 16:00:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jan 18, 2024 10:07:12
+///////////////////////////////////
+

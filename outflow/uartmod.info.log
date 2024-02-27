@@ -1,0 +1,2140 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 14:57:57
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 14:58:33
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:03:52
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:16:11
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:37:41
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:39:49
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:154)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:47:58
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endmodule' (VERI-1137) (E:\intern\project\uartmod\utx.v:153)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endmodule' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:153)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:48:37
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'reg' (VERI-1137) (E:\intern\project\uartmod\urx.v:7)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'reg' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\urx.v:7)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:49:24
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0021 ERROR] Verific elaboration of module 'utx' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:53:45
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0010 VERI-ERROR] instantiating unknown module 'utx' (VERI-1063) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:1)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 15:54:22
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[1]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[0]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 51 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 172 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 16:50:25
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[1]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[0]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 51 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 172 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:05:27
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:42)
+[EFX-0010 VERI-ERROR] default case should appear only once (VERI-1020) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] module 'utx' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:05:43
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:42)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:43)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:44)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\utx.v:45)
+[EFX-0010 VERI-ERROR] syntax error near 'default' (VERI-1137) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'default' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:46)
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\utx.v:48)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\utx.v:48)
+[EFX-0010 VERI-ERROR] default case should appear only once (VERI-1020) (E:\intern\project\uartmod\utx.v:146)
+[EFX-0010 VERI-ERROR] module 'utx' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\utx.v:154)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:06:04
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[1]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[0]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 51 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 172 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:08:09
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[1]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[0]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 51 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 172 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:25:57
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[1]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 't0.baud_select[0]'. (E:\intern\project\uartmod\top.v:15)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 51 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 172 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:44:22
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0011 VERI-WARNING] actual bit length 1 differs from formal bit length 2 for port 'baud_select' (VERI-1330) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0266 WARNING] Module Instance 't0' input pin tied to constant (baud_select[1]=0).
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 53 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 209 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 28.98
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 2 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 17:49:30
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0011 VERI-WARNING] port 'baud_select' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:17)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0011 VERI-WARNING] input port 'baud_select[1]' remains unconnected for this instance (VDB-1053) (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[1]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'r0.baud_select[0]'. (E:\intern\project\uartmod\top.v:17)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 59 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 216 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 15, ed: 48, lv: 2, pw: 29.20
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 13 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0011 VERI-WARNING] Input/Inout Port i_Rx_Serial is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select[1] is unconnected and will be removed 
+[EFX-0011 VERI-WARNING] Input/Inout Port baud_select[0] is unconnected and will be removed 
+[EFX-0012 VERI-INFO] Found 3 warnings in the post-synthesis netlist. 
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_FF          : 	1
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 13, 2023 18:12:01
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 58 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 29 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 110, ed: 355, lv: 5, pw: 186.57
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 58 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	110
+[EFX-0000 INFO] EFX_FF          : 	58
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 14, 2023 09:36:21
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 58 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 29 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 6s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 110, ed: 355, lv: 5, pw: 186.57
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 58 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	110
+[EFX-0000 INFO] EFX_FF          : 	58
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 14, 2023 10:37:55
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:1)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:95)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:105)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\utx.v:124)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 10 truncated to fit in target size 9 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0011 VERI-WARNING] expression size 9 truncated to fit in target size 8 (VERI-1209) (E:\intern\project\uartmod\urx.v:143)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0200 WARNING] Removing redundant signal : r_Rx_Byte[8]. (E:\intern\project\uartmod\urx.v:28)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 29 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 58 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 29 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 6s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 110, ed: 355, lv: 5, pw: 186.57
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 58 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	110
+[EFX-0000 INFO] EFX_FF          : 	58
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 15, 2023 11:57:15
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 31 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 62 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 27 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 138, ed: 462, lv: 5, pw: 239.87
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 62 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	138
+[EFX-0000 INFO] EFX_FF          : 	62
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 18, 2023 11:35:20
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 31 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 62 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 27 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 6s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 138, ed: 462, lv: 5, pw: 239.87
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 62 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	138
+[EFX-0000 INFO] EFX_FF          : 	62
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 09:25:54
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:15)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:1)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 31 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 62 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 27 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 138, ed: 462, lv: 5, pw: 239.87
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 62 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	138
+[EFX-0000 INFO] EFX_FF          : 	62
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:43:36
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\top.v:43)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:43)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:74)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:44:54
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:70)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:18)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:38)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:39)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:40)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:41)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:18)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:46:33
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:70)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:18)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:38)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:39)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:40)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:41)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:18)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:48:49
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:58)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:63)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] 'led_1' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] 'led_2' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:57)
+[EFX-0010 VERI-ERROR] 'led_3' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:58)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:59)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:62)
+[EFX-0010 VERI-ERROR] 'led_4' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:63)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:64)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:74)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:49:55
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] variable 'led_1' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:48)
+[EFX-0011 VERI-WARNING] variable 'counter_1s' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:49)
+[EFX-0011 VERI-WARNING] variable 'led_2' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:53)
+[EFX-0011 VERI-WARNING] variable 'counter_2s' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:54)
+[EFX-0011 VERI-WARNING] variable 'led_3' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:58)
+[EFX-0011 VERI-WARNING] variable 'counter_3s' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:59)
+[EFX-0011 VERI-WARNING] variable 'led_4' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:63)
+[EFX-0011 VERI-WARNING] variable 'counter_4s' is used before it is assigned in an always_comb or always @* block; synthesis - simulation differences may occur (VERI-2336) (E:\intern\project\uartmod\top.v:64)
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:70)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:18)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:38)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:39)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:40)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:41)
+[EFX-0011 VERI-WARNING] latch inferred for net 'led_1' (VERI-2580) (E:\intern\project\uartmod\top.v:66)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:66)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:18)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 10:51:23
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:71)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:18)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:38)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:39)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:40)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:41)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 87 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 1s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 62 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 27 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 142, ed: 474, lv: 5, pw: 245.04
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 62 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	142
+[EFX-0000 INFO] EFX_FF          : 	62
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 11:32:42
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:71)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:18)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:38)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:39)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:40)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:41)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 87 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 62 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 27 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 1s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 142, ed: 474, lv: 5, pw: 245.04
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 1s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 62 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	142
+[EFX-0000 INFO] EFX_FF          : 	62
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:28:23
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:35)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:76)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:31:33
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'output' (VERI-1137) (E:\intern\project\uartmod\top.v:27)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'output' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:27)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:31:50
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:09
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not declared (VERI-1128) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:26
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near 'output' (VERI-1137) (E:\intern\project\uartmod\top.v:27)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'output' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:27)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:33:45
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:34:13
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] 'o_Rx_DV' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:37)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:78)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:41:33
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 3000000000; using -1294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:63)
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 4000000000; using -294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:68)
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:75)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:77)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:77)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:79)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:79)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:81)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:81)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:92)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:42:43
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 3000000000; using -1294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:63)
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 4000000000; using -294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:68)
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:76)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:93)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:44:30
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 3000000000; using -1294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:63)
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 4000000000; using -294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:68)
+[EFX-0010 VERI-ERROR] syntax error near '=' (VERI-1137) (E:\intern\project\uartmod\top.v:76)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:78)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:80)
+[EFX-0010 VERI-ERROR] syntax error near 'else' (VERI-1137) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'else' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:82)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:93)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:44:57
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 3000000000; using -1294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:63)
+[EFX-0011 VERI-WARNING] overflow of 32-bit signed integer 4000000000; using -294967296 instead (VERI-2271) (E:\intern\project\uartmod\top.v:68)
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:89)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:47)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:48)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 87 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 66 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 30 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 140, ed: 475, lv: 5, pw: 253.54
+[EFX-0000 INFO] ... LUT mapping end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 66 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	140
+[EFX-0000 INFO] EFX_FF          : 	66
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 12:55:11
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:89)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:47)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:48)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'led_1' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:72)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:85)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:24)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:14:11
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:87)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:47)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:48)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:83)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:24)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:15:11
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:45)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:46)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] syntax error near '<=' (VERI-1137) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] 'baud_select' is not a constant (VERI-1188) (E:\intern\project\uartmod\top.v:44)
+[EFX-0010 VERI-ERROR] 'counter_1s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:45)
+[EFX-0010 VERI-ERROR] 'counter_2s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:46)
+[EFX-0010 VERI-ERROR] 'counter_3s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:47)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:48)
+[EFX-0010 VERI-ERROR] 'counter_4s' is not a type (VERI-1281) (E:\intern\project\uartmod\top.v:49)
+[EFX-0010 VERI-ERROR] module 'top' is ignored due to previous errors (VERI-1072) (E:\intern\project\uartmod\top.v:91)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 14:15:34
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:87)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:47)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:48)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:83)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:24)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 15:53:45
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:85)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:47)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:48)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:81)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:24)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 15:58:19
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:83)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:43)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:44)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:46)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0010 VERI-ERROR] net 'counter_1s[27]' is constantly driven from multiple places (VDB-1000) (E:\intern\project\uartmod\top.v:50)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (E:\intern\project\uartmod\top.v:79)
+[EFX-0012 VERI-INFO] module 'top' remains a black box due to errors in its contents (VERI-1073) (E:\intern\project\uartmod\top.v:24)
+[EFX-0021 ERROR] Verific elaboration of module 'top' failed.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 16:00:40
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:51)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:52)
+[EFX-0010 VERI-ERROR] syntax error near ':' (VERI-1137) (E:\intern\project\uartmod\top.v:53)
+[EFX-0010 VERI-ERROR] syntax error near 'default' (VERI-1137) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'default' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:54)
+[EFX-0010 VERI-ERROR] syntax error near 'endcase' (VERI-1137) (E:\intern\project\uartmod\top.v:55)
+[EFX-0010 VERI-ERROR] Verilog 2000 keyword 'endcase' used in incorrect context (VERI-2344) (E:\intern\project\uartmod\top.v:55)
+[EFX-0011 VERI-WARNING] illegal empty item in case item list (VERI-1770) (E:\intern\project\uartmod\top.v:90)
+[EFX-0011 VERI-WARNING] illegal empty item in case item list (VERI-1770) (E:\intern\project\uartmod\top.v:92)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Dec 19, 2023 16:00:57
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:90)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:51)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:52)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:53)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0256 WARNING] The primary output port 'led_2' wire 'led_2' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_3' wire 'led_3' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_4' wire 'led_4' is not driven.
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0256 WARNING] The primary output port 'led_2' wire 'led_2' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_3' wire 'led_3' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_4' wire 'led_4' is not driven.
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_2'. (E:\intern\project\uartmod\top.v:31)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_3'. (E:\intern\project\uartmod\top.v:32)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_4'. (E:\intern\project\uartmod\top.v:33)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 87 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 175 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 46 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 6s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 327, ed: 1024, lv: 5, pw: 484.06
+[EFX-0000 INFO] ... LUT mapping end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 175 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 1s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	198
+[EFX-0000 INFO] EFX_FF          : 	91
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jan 18, 2024 10:07:12
+///////////////////////////////////
+
+[EFX-0012 VERI-INFO] default VHDL library search path is now "E:/intern/sim_models/vhdl/packages/vhdl_2008" (VHDL-1504) 
+[EFX-0011 VERI-WARNING] port 'o_Tx_Active' remains unconnected for this instance (VERI-1927) (E:\intern\project\uartmod\top.v:90)
+[EFX-0012 VERI-INFO] compiling module 'top' (VERI-1018) (E:\intern\project\uartmod\top.v:24)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:45)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:51)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:52)
+[EFX-0011 VERI-WARNING] expression size 29 truncated to fit in target size 28 (VERI-1209) (E:\intern\project\uartmod\top.v:53)
+[EFX-0012 VERI-INFO] compiling module 'utx' (VERI-1018) (E:\intern\project\uartmod\utx.v:2)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:78)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:96)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\utx.v:106)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\utx.v:125)
+[EFX-0012 VERI-INFO] compiling module 'urx' (VERI-1018) (E:\intern\project\uartmod\urx.v:3)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:77)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:87)
+[EFX-0011 VERI-WARNING] expression size 4 truncated to fit in target size 3 (VERI-1209) (E:\intern\project\uartmod\urx.v:98)
+[EFX-0011 VERI-WARNING] expression size 12 truncated to fit in target size 11 (VERI-1209) (E:\intern\project\uartmod\urx.v:116)
+[EFX-0256 WARNING] The primary output port 'led_2' wire 'led_2' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_3' wire 'led_3' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_4' wire 'led_4' is not driven.
+[EFX-0000 INFO] ... Setting Synthesis Option: mode=speed
+[EFX-0012 VERI-INFO] compiling module 'EFX_ADD' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:8)
+[EFX-0012 VERI-INFO] compiling module 'EFX_FF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:21)
+[EFX-0012 VERI-INFO] compiling module 'EFX_COMB4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:38)
+[EFX-0012 VERI-INFO] compiling module 'EFX_GBUFCE' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:48)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IDDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:57)
+[EFX-0012 VERI-INFO] compiling module 'EFX_ODDR' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:71)
+[EFX-0012 VERI-INFO] compiling module 'EFX_IOBUF' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:87)
+[EFX-0012 VERI-INFO] compiling module 'EFX_LUT4' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:99)
+[EFX-0012 VERI-INFO] compiling module 'EFX_MULT' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:107)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP48' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:142)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP24' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:198)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DSP12' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:251)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_4K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:304)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:364)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM_5K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:436)
+[EFX-0012 VERI-INFO] compiling module 'RAMB5' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:541)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM_10K' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:603)
+[EFX-0012 VERI-INFO] compiling module 'EFX_RAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:695)
+[EFX-0012 VERI-INFO] compiling module 'EFX_DPRAM10' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:796)
+[EFX-0012 VERI-INFO] compiling module 'EFX_SRL8' (VERI-1018) (E:/intern/sim_models/maplib/efinix_maplib.v:926)
+[EFX-0000 INFO] ... Pre-synthesis checks begin
+[EFX-0256 WARNING] The primary output port 'led_2' wire 'led_2' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_3' wire 'led_3' is not driven.
+[EFX-0256 WARNING] The primary output port 'led_4' wire 'led_4' is not driven.
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_2'. (E:\intern\project\uartmod\top.v:31)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_3'. (E:\intern\project\uartmod\top.v:32)
+[EFX-0201 WARNING] Re-wiring to GND non-driven net 'led_4'. (E:\intern\project\uartmod\top.v:33)
+[EFX-0000 INFO] ... Pre-synthesis checks end (Real time : 0s)
+[EFX-0000 INFO] ... NameSpace init begin
+[EFX-0000 INFO] ... NameSpace init end (Real time : 0s)
+[EFX-0000 INFO] ... Mapping design "top"
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "utx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" begin
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "urx" end (Real time : 0s)
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" begin
+[EFX-0000 INFO] ... Clock Enable Synthesis Performed on 87 flops.
+[EFX-0000 INFO] ... Hierarchical pre-synthesis "top" end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Flat synthesis begin
+[EFX-0000 INFO] ... Flat synthesis end (Real time : 0s)
+[EFX-0000 INFO] ... Flat optimizations begin
+[EFX-0000 INFO] ... Flat optimizations end (Real time : 0s)
+[EFX-0000 INFO] ... Check and break combinational loops begin
+[EFX-0000 INFO] ... Check and break combinational loops end (Real time : 0s)
+[EFX-0000 INFO] ... Sequential Optimization begin
+[EFX-0000 INFO] ... Clock Network i_Clock with 175 loads will be considered for sequential optimization.
+[EFX-0000 INFO] ... Sequential Optimization deduced 46 equivalent points.
+[EFX-0000 INFO] ... Sequential Optimization end (Real time : 5s)
+[EFX-0000 INFO] ... SOP modeling begin
+[EFX-0000 INFO] ... SOP modeling end (Real time : 0s)
+[EFX-0000 INFO] ... LUT mapping begin
+[EFX-0000 INFO] ... LS, strategy: 3, nd: 327, ed: 1024, lv: 5, pw: 484.06
+[EFX-0000 INFO] ... LUT mapping end (Real time : 2s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist creation end (Real time : 0s)
+[EFX-0000 INFO] ... Postmap Retiming Optimization begin
+[EFX-0000 INFO] ... Clock Network n3 with 175 loads will be considered for retiming optimization.
+[EFX-0000 INFO] ... Performed 0 retime moves.
+[EFX-0000 INFO] ... Postmap Retiming Optimization end (Real time : 0s)
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing begin
+[EFX-0000 INFO] ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s)
+[EFX-0000 INFO] Resource Summary 
+[EFX-0000 INFO] =============================== 
+[EFX-0000 INFO] EFX_LUT4        : 	198
+[EFX-0000 INFO] EFX_FF          : 	91
+[EFX-0000 INFO] EFX_GBUFCE      : 	1
+[EFX-0000 INFO] =============================== 

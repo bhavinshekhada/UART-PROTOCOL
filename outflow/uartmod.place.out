@@ -1,0 +1,178 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.1.150 
+Compiled: Jun 23 2023.
+
+Copyright (C) 2013 - 2023 Efinix Inc. All rights reserved.
+
+
+The Tool Is Based on VPR of University of Toronto,
+a free open source code under MIT license.
+
+
+Running Placement and Routing for Family "Trion", Device "T120F324" ...
+
+***** Beginning stage netlist pre-processing ... *****
+Successfully Read in Verific binary Netlist dump file "E:/intern/project/uartmod/outflow/uartmod.vdb".
+***** Beginning VDB Netlist Checker ... *****
+VDB Netlist Checker took 0.0055295 seconds.
+	VDB Netlist Checker took 0 seconds (approximately) in total CPU time.
+VDB Netlist Checker virtual memory usage: begin = 12.52 MB, end = 12.52 MB, delta = 0 MB
+	VDB Netlist Checker peak virtual memory usage = 57.216 MB
+VDB Netlist Checker resident set memory usage: begin = 24.164 MB, end = 24.344 MB, delta = 0.18 MB
+	VDB Netlist Checker peak resident set memory usage = 67.412 MB
+***** Ending VDB Netlist Checker ... *****
+Reading core interface constraints from 'E:/intern/project/uartmod/outflow/uartmod.interface.csv'.
+Successfully processed interface constraints file "E:/intern/project/uartmod/outflow/uartmod.interface.csv".
+Found 0 constant generator nets.
+Pass 0: Swept away 0 nets with no fanout.
+Pass 0: Swept away 0 blocks with no fanout.
+Swept away 0 nets and 0 blocks in total.
+Removed 0 LUT buffers.
+Successfully created VPR logical netlist from Verific binary DataBase file "E:/intern/project/uartmod/outflow/uartmod.vdb".
+Netlist pre-processing took 0.0628016 seconds.
+	Netlist pre-processing took 0 seconds (approximately) in total CPU time.
+Netlist pre-processing virtual memory usage: begin = 12.248 MB, end = 13.448 MB, delta = 1.2 MB
+	Netlist pre-processing peak virtual memory usage = 57.216 MB
+Netlist pre-processing resident set memory usage: begin = 23.732 MB, end = 25.336 MB, delta = 1.604 MB
+	Netlist pre-processing peak resident set memory usage = 67.412 MB
+***** Ending stage netlist pre-processing *****
+
+***** Beginning stage pre-packing ... *****
+***** Ending stage pre-packing *****
+
+***** Beginning stage packing ... *****
+Generate proto netlist for file "E:/intern/project/uartmod/work_pnr\uartmod.net_proto" took 0.001 seconds
+Creating IO constraints file 'E:/intern/project/uartmod/work_pnr\uartmod.io_place'
+Packing took 0.005127 seconds.
+	Packing took 0 seconds (approximately) in total CPU time.
+Packing virtual memory usage: begin = 30.7 MB, end = 30.7 MB, delta = 0 MB
+	Packing peak virtual memory usage = 57.216 MB
+Packing resident set memory usage: begin = 42.616 MB, end = 42.844 MB, delta = 0.228 MB
+	Packing peak resident set memory usage = 67.412 MB
+***** Ending stage packing *****
+
+***** Beginning stage packed netlist loading ... *****
+Read proto netlist file E:/intern/project/uartmod/work_pnr\uartmod.net_proto
+Read proto netlist for file "E:/intern/project/uartmod/work_pnr\uartmod.net_proto" took 0.019 seconds
+Setup net and block data structure took 0.007 seconds
+Packed netlist loading took 0.0422914 seconds.
+	Packed netlist loading took 0 seconds (approximately) in total CPU time.
+Packed netlist loading virtual memory usage: begin = 30.7 MB, end = 32.888 MB, delta = 2.188 MB
+	Packed netlist loading peak virtual memory usage = 72.096 MB
+Packed netlist loading resident set memory usage: begin = 42.852 MB, end = 45.196 MB, delta = 2.344 MB
+	Packed netlist loading peak resident set memory usage = 84.244 MB
+***** Ending stage packed netlist loading *****
+
+***** Beginning stage pre-placement ... *****
+
+***** Ending stage pre-placement *****
+
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' blank or does not contain valid constraint or not found.
+Using default timing constraint of 1 ns.
+
+SDC file 'E:/intern/project/uartmod/EX1.sdc' parsed successfully.
+1 clocks (including virtual clocks), 0 inputs and 0 outputs were constrained.
+
+***** Beginning stage initial placement ... *****
+Reading core interface constraints from 'E:/intern/project/uartmod/outflow/uartmod.interface.csv'.
+Successfully processed interface constraints file "E:/intern/project/uartmod/outflow/uartmod.interface.csv".
+Writing IO placement constraints to 'E:/intern/project/uartmod/outflow\uartmod.interface.io'.
+
+Reading placement constraints from 'E:/intern/project/uartmod/outflow\uartmod.interface.io'.
+
+Reading placement constraints from 'E:/intern/project/uartmod/work_pnr\uartmod.io_place'.
+WARNING(1): o_Rx_DV has no assigned placement; it will be placed randomly.
+1 IOs will have random placement.
+WARNING(2): Clock driver i_Clock should use the dedicated clock pad.
+***** Ending stage initial placement *****
+
+***** Beginning stage placement ... *****
+Create E:/intern/project/uartmod/outflow\uartmod_after_qp.qdelay
+QPLACER STATIC DB USAGE DISABLED
+NumRegions 1
+Starting Global Placer with 4 threads ...
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL Worst Slack (ps) Convergence
+ ----------     -------  --------------     -------
+          1        3393            -967        19.0%
+          2        2137            -899        29.4%
+          3        1708            -899        38.7%
+          4        1357           -1183        48.0%
+          5        1383            -803        50.8%
+          6        1372           -1178        57.3%
+          7        1450           -2959        60.9%
+          8        1675           -1913        65.2%
+          9        1526           -3220        72.8%
+         10        1527           -4462        79.5%
+         11        1567           -4973        85.8%
+         12        1661           -5213        87.4%
+         13        1789           -4594        89.6%
+         14        1860           -4937        91.7%
+         15        2059           -5043        92.8%
+         16        2051           -5392        92.8%
+         17        1636           -4969        97.0%
+         18        1907           -5750        97.0%
+         19        1995           -5856        97.0%
+         20        2000           -5359        97.0%
+         21        1933           -5616        97.0%
+         22        1879           -5377        97.0%
+         23        1851           -5395        97.9%
+Starting Annealer
+
+ ----------     -------  --------------     -------
+  Iteration       WHPWL  Delay Max (ps)     R Limit
+ ----------     -------  --------------     -------
+          0        1636            7715        30.0
+          1        1423            6081        28.2
+          2        1217            5379        25.9
+          3        1229            5591        23.6
+          4        1156            5754        21.3
+          5        1163            5628        19.3
+          6        1173            5628        17.4
+          7        1127            5342        15.7
+          8        1109            5291        14.2
+          9        1104            5272        12.8
+         10        1135            5235        11.6
+         11        1156            5235        10.5
+         12        1226            5235         9.4
+         13        1214            5064         8.5
+         14        1195            4989         7.7
+         15        1168            4989         7.0
+         16        1126            5064         6.3
+         17        1126            5064         5.7
+         18        1147            4852         5.1
+         19        1167            4894         4.6
+         20        1136            4861         4.2
+         21        1132            4861         3.8
+         22        1162            4803         3.4
+         23        1152            4803         3.1
+         24        1157            4803         2.8
+         25        1150            4861         2.5
+         26        1160            4803         2.3
+         27        1204            4802         2.1
+         28        1192            4920         1.9
+         29        1204            4700         1.7
+         30        1205            4700         1.5
+         31        1259            5055         1.4
+         32        1312            4775         1.2
+Generate E:/intern/project/uartmod/outflow\uartmod_after_qp.qdelay
+Placement successful: 226 cells are placed
+Peak congestion smeared over 1/4 of the chip is 0.0110504 at 0,0
+Congestion-weighted HPWL per net: 2.32
+
+Reading placement constraints from 'E:/intern/project/uartmod/outflow/uartmod.qplace'.
+Finished Realigning Types (71 blocks needed type change)
+
+Completed placement consistency check successfully.
+Successfully created FPGA place file 'E:/intern/project/uartmod/outflow/uartmod.place'
+Placement took 6.15129 seconds.
+	Placement took 4.07812 seconds (approximately) in total CPU time.
+Placement virtual memory usage: begin = 39.984 MB, end = 60.552 MB, delta = 20.568 MB
+	Placement peak virtual memory usage = 378.236 MB
+Placement resident set memory usage: begin = 52.816 MB, end = 65.764 MB, delta = 12.948 MB
+	Placement peak resident set memory usage = 380.976 MB
+***** Ending stage placement *****
+

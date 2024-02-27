@@ -1,0 +1,35 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2023.1.150 
+Date: Thu Jan 18 10:08:06 2024
+
+Copyright (C) 2013 - 2023 Efinix Inc. All rights reserved.
+ 
+Family: Trion 
+Device: T120F324
+Top-level Entity Name: uartmod
+Elapsed time for packing: 0 hours 0 minutes 0 seconds
+
+---------- Resource Summary (begin) ----------
+Inputs: 5 / 1076 (0.46%)
+Outputs: 5 / 1566 (0.32%)
+Clocks: 1 / 16 (6.25%)
+Logic Elements: 226 / 112128 (0.20%)
+	LE: LUTs/Adders: 200 / 112128 (0.18%)
+	LE: Registers: 91 / 107520 (0.08%)
+Memory Blocks: 0 / 1056 (0.00%)
+Multipliers: 0 / 320 (0.00%)
+---------- Resource Summary (end) ----------
+
+
+---------- IO Placement Summary (begin) ----------
+
++----------------------+--------------+
+| Unassigned Core Pins | Input/Output |
++----------------------+--------------+
+|       o_Rx_DV        |    Input     |
++----------------------+--------------+
+
+----------- IO Placement Summary (end) ----------
+
+Elapsed time for placement: 0 hours 0 minutes 6 seconds

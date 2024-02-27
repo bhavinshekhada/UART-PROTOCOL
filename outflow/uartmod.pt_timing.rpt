@@ -1,0 +1,43 @@
+
+Efinity Interface Designer Timing Report
+Version: 2023.1.150
+Date: 2024-01-18 10:07
+
+Copyright (C) 2017 - 2023 Efinix Inc. All rights reserved.
+
+Device: T120F324
+Project: uartmod
+Timing Model: C4 (final)
+
+---------- 1. GPIO Timing Report (begin) ----------
+
+Non-registered GPIO Configuration:
+===================================
+
++----------------+----------------+-----------+----------+----------+
+| Instance Name  |    Pin Name    | Parameter | Max (ns) | Min (ns) |
++----------------+----------------+-----------+----------+----------+
+| baud_select[0] | baud_select[0] |  GPIO_IN  |  1.636   |  0.818   |
+| baud_select[1] | baud_select[1] |  GPIO_IN  |  1.716   |  0.858   |
+|    i_Clock     |    i_Clock     |  GPIO_IN  |  1.476   |  0.738   |
+|  i_Rx_Serial   |  i_Rx_Serial   |  GPIO_IN  |  1.396   |  0.698   |
+|  o_Tx_Serial   |  o_Tx_Serial   |  GPIO_OUT |  3.829   |  1.915   |
++----------------+----------------+-----------+----------+----------+
+
+---------- GPIO Timing Report (end) ----------
+
+---------- 2. LVDS Rx Timing Report (begin) ----------
+
+Non-registered LVDS GPIO Configuration:
+========================================
+
++---------------+----------+-----------+----------+----------+
+| Instance Name | Pin Name | Parameter | Max (ns) | Min (ns) |
++---------------+----------+-----------+----------+----------+
+|     led_1     |  led_1   |  GPIO_OUT |  3.542   |  1.771   |
+|     led_2     |  led_2   |  GPIO_OUT |  3.542   |  1.771   |
+|     led_3     |  led_3   |  GPIO_OUT |  3.542   |  1.771   |
+|     led_4     |  led_4   |  GPIO_OUT |  3.542   |  1.771   |
++---------------+----------+-----------+----------+----------+
+
+---------- LVDS Rx Timing Report (end) ----------
