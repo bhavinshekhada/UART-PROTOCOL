@@ -1,5 +1,3 @@
-[Back to Periplex Documentation](periplex_documentation.md)
-
 # UART Peripheral Documentation
 
 ## Overview
