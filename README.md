@@ -53,7 +53,6 @@ To use the UART peripheral in your FPGA project, follow these steps:
 
 5. **Data Transmission and Reception**: Utilize the UART transmit and receive interfaces in your FPGA design to send and receive data over the serial interface.
 
-## Support
 
 If you encounter any issues or have questions regarding the UART peripheral in Periplex, feel free to reach out to the project maintainers for assistance.
 
